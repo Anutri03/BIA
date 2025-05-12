@@ -4,5 +4,6 @@
         "plaintext": true,
         "markdown": false,
         "scminput": false
-    }
+    },
+    "python.analysis.autoImportCompletions": true
 }
